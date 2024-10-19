@@ -4,4 +4,4 @@
 नीचे तिथि आदि आरम्भ और समाप्ति समय भी दिया गया है । 
 इस पञ्चाङ्ग से सम्बन्धित सारा स्क्रिप्ट Github के <a href="https://github.com/schenna/panchangJS">panchang.js</a> से लिया गया है । 
 इसका सारा श्रेय  उनके (schenna) पास ही है । मैनें केवल इसका यूजर इण्टरफेस तैयार किया है ।
-<a href="https://arshavak.github.io/samkalpah/">इसे यहां पर देखें</अ>
+<a href="https://arshavak.github.io/samkalpah/">इसे यहां पर देखें</a>
